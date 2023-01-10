@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JetBook</string>
+    <string name="menu_home">Beranda</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profil</string>
+    <string name="name">Labib Hibatullah</string>
+    <string name="email">labibla21@gmail.com</string>
+    <string name="detail_book">Detail Buku</string>
+    <string name="desc_book">Deskripsi Buku</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="placeholder_search">Cari buku apa?</string>
+    <string name="author">Pengarang : %s</string>
+    <string name="page">Halaman : %d</string>
+    <string name="publication_year">Tahun terbit : %s</string>
+    <string name="publisher">Penerbit : %s</string>
+    <string name="required_price">Rp %d</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp %d</string>
+    <string name="total_order">Total pesanan : Rp %d</string>
+    <string name="back">Kembali</string>
+    <string name="order_book">Pembelian Buku</string>
+    <string name="share_message">Saya telah membeli %1$d buku di Jetbook dengan total biaya Rp %2$d.</string>
+</resources>
